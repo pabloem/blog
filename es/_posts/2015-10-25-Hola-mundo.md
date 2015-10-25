@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hola Mundo
+language: spanish
 tags:
   - español
 ---
