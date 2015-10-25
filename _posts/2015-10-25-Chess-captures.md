@@ -17,4 +17,4 @@ The results are interesting - although they might be expected for anyone who's p
 
 It is interesting to observe the patterns that form for black and white pieces, and for different pieces. Go ahead and spend some time looking at it. :)
 
-The data, as well as the code for the analysis and visualization are available on my [Git repository](http://github.com/pabloem/chess/). Feel free to ask any questions, or use the code as you see fit. Please give attribution to me when you use the visualizations.
+The data, as well as the code for the analysis and visualization are available on my [Git repository](http://github.com/pabloem/chess/). Feel free to ask any questions, or use the code as you see fit. Please give attribution when you use the visualizations.
