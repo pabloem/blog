@@ -7,7 +7,7 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <small>Published {{ post.date | date_to_string }}</small>
+      <div class="date"><small>Published {{ post.date | date_to_string }}</small></div>
 
       <div class="entry">
         {{ post.content }}
