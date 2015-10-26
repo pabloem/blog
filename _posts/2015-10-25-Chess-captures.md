@@ -5,6 +5,7 @@ tags:
   - chess
   - data analysis
   - millionbase
+
 ---
 
 I recently analyzed [the millionbase](http://www.top-5000.nl/pgn.htm). A large dataset of aproximately 2.2 million chess games. There have been several examples of analyses of the millionbase, such as the [Chess Piece Journeys](https://www.reddit.com/r/dataisbeautiful/comments/37yg35/chess_piece_journeys_album_oc/), and [Survival of Pieces in Chess](https://www.reddit.com/r/dataisbeautiful/comments/2jrwgw/survival_of_pieces_in_chess/) that was first posted in Quora. 

@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts reversed %}
+  {% for post in site.posts | sort:"date" %}
     {% if post.language == "spanish" %}
     <article class="post">
 
