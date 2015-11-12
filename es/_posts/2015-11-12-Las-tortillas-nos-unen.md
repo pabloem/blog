@@ -19,7 +19,7 @@ Se me hizo muy chistoso. Decidí estudiarlo en un pequeño mapa del Distrito Fed
 tortillerías, busqué información sobre la población y el producto interno bruto de cada delegación. Todos
 estos datos los pueden visualizar en el mapa que ven a continuación:
 
-<iframe src="http://pabloem.github.io/inegi/df_d3_es.html" width="950" height="650" frameborder="0" scrolling="no"></iframe>
+<iframe src="http://pabloem.github.io/inegi/df_d3_es.html" width="950" height="700" frameborder="0" scrolling="no"></iframe>
 
 Hay muchos patrones interesantes. Por ejemplo, el número de tortillerías y la población tienen casi los mismos
 colores en el mapa! - y la coloración del mapa de tortillerías per cápita es bastante uniforme! Sin importar el
