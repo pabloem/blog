@@ -18,7 +18,7 @@ Se me hizo muy chistoso. Decidí estudiarlo en un pequeño mapa del Distrito Fed
 tortillerías, busqué información sobre la población y el producto interno bruto de cada delegación. Todos
 estos datos los pueden visualizar en el mapa que ven a continuación:
 
-<iframe src="http://pabloem.github.io/inegi/df_d3_es.html" width="950" height="950" frameborder="0" scrolling="no" style="height: 900px;"></iframe>
+<iframe src="http://pabloem.github.io/inegi/df_d3_es.html" width="950" height="7000" frameborder="0" scrolling="no" style="height: 700px;"></iframe>
 
 Hay muchos patrones interesantes. Por ejemplo, el número de tortillerías y la población tienen casi los mismos
 colores en el mapa!  esto significa que no importa que seamos ricos o pobres: Todos los Defeños comemos bastantes tortillas. Sin importar el PIB, ni el PIB per cápita; la concentración de tortillerías en el Distrito Federal 
@@ -26,20 +26,22 @@ es más o menos uniforme, de entre 3 y 10 por cada 1000 personas.
 
 Por otro lado, se pueden ver unos datos que no son tan alentadores: Las disparidades en el Producto Interno Bruto;
 y especialmente las del PIB per cápita. Podemos ver que la delegación más poblada (Iztapalapa) es también 
-una de las delegaciones con el *menor* PIB del DF; mientras que la Miguel Hidalgo tiene un PIB más de 6 veces
+una de las delegaciones con el *menor* PIB del DF; mientras que la Miguel Hidalgo tiene un PIB casi 7 veces
 más grande. Esto habla de muchísima desigualdad. Claro, el PIB no representa exactamente el nivel de ingresos 
 de los habitantes de cada zona; sino que representa la riqueza generada en esas zonas cada año - y claro,
 zonas con negocios como las delegaciones Cuauhtémoc y Miguel Hidalgo tienen un PIB alto, aunque muchos de 
 los trabajadores vengan desde otras zonas. 
 
 Sin embargo, las disparidades no dejan de ser nada menos que *escandalosas*. De hecho, el PIB per cápita de la 
-delegación Miguel Hidalgo es comparable con el de los países más ricos del mundo (hagan la conversión: Unos 
+delegación Miguel Hidalgo es comparable con el de los países más ricos del mundo (hagan la conversión: son unos 
 80,000 USD. Equivalente al de Suiza!); mientras que el PIB per cápita de la delegación Iztapalapa es de unos 
 2,400 USD: Comparable al de Gana; y apenas 3% del de la Miguel Hidalgo.
 
 De nuevo, no es posible atribuir estas diferencias solamente a la desigualdad económica - y tampoco es posible
 decir que es todo debido a la distribución desigual de empresas y medios para generar riqueza. Hay muchos 
-problemas que contribuyen a esta desigualdad. 
+problemas que contribuyen a esta desigualdad: Desigualdad económica, que las personas vivan lejos de donde
+trabajan, etc.
 
-Mientras tanto, podemos recordar que aunque la ciudad está llena de contrastes, hay algo donde todos estamos
-en la misma página: amamos nuestra comida, y las tortillas son una característica común en toda la ciudad. Es decir, que las tortillas nos unen. : )
+De cualquier manera, podemos recordar que aunque la ciudad está llena de contrastes, hay algo donde todos estamos
+en la misma página: amamos nuestra comida, y cómo no? Nuestra comida es la mejor del mundo. Y no importa si vives
+en Milpa Alta, Iztapalapa, la Cuauhtémoc o la Miguel Hidalgo: las tortillas nos unen.
