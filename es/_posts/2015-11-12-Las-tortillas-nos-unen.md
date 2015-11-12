@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Las Tortillas nos unen
+title: Las Tortillas nos Unen
 language: spanish
 tags:
   - español
@@ -45,4 +45,4 @@ decir que es todo debido a la distribución desigual de empresas y medios para g
 problemas que contribuyen a esta desigualdad; pero por ahora sólo vamos a considerarla.
 
 Mientras tanto, podemos recordad que aunque la ciudad está llena de contrastes, hay algo donde todos estamos
-en la misma página: Las Tortillas nos Unen.
+en la misma página: amamos nuestra comida, y las Tortillas nos Unen.
