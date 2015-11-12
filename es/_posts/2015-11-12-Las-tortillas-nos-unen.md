@@ -19,7 +19,7 @@ Se me hizo muy chistoso. Decidí estudiarlo en un pequeño mapa del Distrito Fed
 tortillerías, busqué información sobre la población y el producto interno bruto de cada delegación. Todos
 estos datos los pueden visualizar en el mapa que ven a continuación:
 
-<iframe src="http://pabloem.github.io/inegi/df_d3_es.html" width="950" height="750" frameborder="0" scrolling="no"></iframe>
+<iframe src="http://pabloem.github.io/inegi/df_d3_es.html" width="950" height="800" frameborder="0" scrolling="no"></iframe>
 
 Hay muchos patrones interesantes. Por ejemplo, el número de tortillerías y la población tienen casi los mismos
 colores en el mapa! - y la coloración del mapa de tortillerías per cápita es bastante uniforme! Sin importar el
@@ -42,7 +42,7 @@ delegación Miguel Hidalgo es comparable con el de los países más ricos del mu
 
 De nuevo, no es posible atribuir estas diferencias solamente a la desigualdad económica - y tampoco es posible
 decir que es todo debido a la distribución desigual de empresas y medios para generar riqueza. Hay muchos 
-problemas que contribuyen a esta desigualdad; pero por ahora sólo vamos a considerarla.
+problemas que contribuyen a esta desigualdad. 
 
-Mientras tanto, podemos recordad que aunque la ciudad está llena de contrastes, hay algo donde todos estamos
-en la misma página: amamos nuestra comida, y las Tortillas nos Unen.
+Mientras tanto, podemos recordar que aunque la ciudad está llena de contrastes, hay algo donde todos estamos
+en la misma página: amamos nuestra comida, y las tortillas son una característica común en toda la ciudad. Es decir, que las tortillas nos unen. : )
