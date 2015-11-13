@@ -45,8 +45,6 @@ no es suficiente.
 De cualquier manera, podemos recordar que aunque la ciudad está llena de contrastes, hay algo donde todos estamos
 en la misma página: amamos nuestra comida, y cómo no? Nuestra comida es la mejor del mundo. Y no importa si vives
 en Milpa Alta, Iztapalapa, la Cuauhtémoc o la Miguel Hidalgo: las tortillas nos unen.
-<script type="text/javascript">
 
-setTimeout(function(){document.getElementById(\"map-1113\").style.height = \'700px\'},1000);
-
+<script src="http://pabloem.github.io/images/map1113.js">
 </script>
