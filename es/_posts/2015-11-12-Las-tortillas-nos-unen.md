@@ -18,7 +18,7 @@ Se me hizo muy chistoso. Decidí estudiarlo en un pequeño mapa del Distrito Fed
 tortillerías, busqué información sobre la población y el producto interno bruto de cada delegación. Todos
 estos datos los pueden visualizar en el mapa que ven a continuación:
 
-<iframe src="http://pabloem.github.io/inegi/df_d3_es.html" width="950" height="700" frameborder="0" scrolling="no"></iframe>
+<iframe id="map-1113" src="http://pabloem.github.io/inegi/df_d3_es.html" width="950" height="700" frameborder="0" scrolling="no"></iframe>
 
 Hay muchos patrones interesantes. Por ejemplo, el número de tortillerías y la población tienen casi los mismos
 colores en el mapa!  esto significa que no importa que seamos ricos o pobres: Todos los Defeños comemos bastantes tortillas. Sin importar el PIB, ni el PIB per cápita; la concentración de tortillerías en el Distrito Federal 
@@ -45,3 +45,6 @@ no es suficiente.
 De cualquier manera, podemos recordar que aunque la ciudad está llena de contrastes, hay algo donde todos estamos
 en la misma página: amamos nuestra comida, y cómo no? Nuestra comida es la mejor del mundo. Y no importa si vives
 en Milpa Alta, Iztapalapa, la Cuauhtémoc o la Miguel Hidalgo: las tortillas nos unen.
+<script type="text/javascript">
+getElementById("menu-1113").style.height = 700;
+</script>
