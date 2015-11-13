@@ -8,10 +8,6 @@ tags:
   - mexico
   - 
 ---
-<style>
-.map-1113 { height: 750px; }
-</style>
-
 Hace poco descargué una base de datos con información de negocios de "manufactura" [del sitio web del INEGI](http://www3.inegi.org.mx/sistemas/descarga/).  La información está disponible para todos, y hay
 muchas cosas interesantes. Me puse a jugar con esos datos, y decidí hacer mi primera visualización de mapa con
 la información de los negocios y algunos datos extra.
@@ -22,7 +18,7 @@ Se me hizo muy chistoso. Decidí estudiarlo en un pequeño mapa del Distrito Fed
 tortillerías, busqué información sobre la población y el producto interno bruto de cada delegación. Todos
 estos datos los pueden visualizar en el mapa que ven a continuación:
 
-<iframe class="map-1113" src="http://pabloem.github.io/inegi/df_d3_es.html" width="950" frameborder="0" scrolling="no"></iframe>
+<iframe src="http://pabloem.github.io/inegi/df_d3_es.html" width="950" height="620" frameborder="0" scrolling="no"></iframe>
 
 Hay muchos patrones interesantes. Por ejemplo, el número de tortillerías y la población tienen casi los mismos
 colores en el mapa!  esto significa que no importa que seamos ricos o pobres: Todos los Defeños comemos bastantes tortillas. Sin importar el PIB, ni el PIB per cápita; la concentración de tortillerías en el Distrito Federal 
@@ -42,9 +38,9 @@ delegación Miguel Hidalgo es comparable con el de los países más ricos del mu
 2,400 USD: Comparable al de Gana; y apenas 3% del de la Miguel Hidalgo.
 
 De nuevo, no es posible atribuir estas diferencias solamente a la desigualdad económica - y tampoco es posible
-decir que es todo debido a la distribución desigual de empresas y medios para generar riqueza. Hay muchos 
-problemas que contribuyen a esta desigualdad: Desigualdad económica, que las personas vivan lejos de donde
-trabajan, etc.
+decir que es todo debido a la distribución desigual de empresas y medios para generar riqueza. También hay que
+considerar que una ciudad está muy interconectada, y que para comprenderla, un pequeño mapa con estadísticas
+no es suficiente.
 
 De cualquier manera, podemos recordar que aunque la ciudad está llena de contrastes, hay algo donde todos estamos
 en la misma página: amamos nuestra comida, y cómo no? Nuestra comida es la mejor del mundo. Y no importa si vives
