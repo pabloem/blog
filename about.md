@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hey! This is [Pablo](http://iampablo.me)! - and this is my blog. I post here about data analysis, computer science,
+Mexico, and all things that I might find interesting and want to share with others. All suggestions are welcome,
+and f you want to collaborate on anything, please contact me.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mail@iampablo.me](mailto:mail@iampablo.me)
