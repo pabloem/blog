@@ -116,7 +116,7 @@ Como ven, en la matriz A están las probabilidades de moverse de un nodo a otro.
 nodo 1 al nodo 2 es 0.5, así que A[1,2] es 0.5. Lo mismo para el resto de la matriz.
 
 Con cadenas de Markov existe un concepto conocido como la 'distribución estacionaria', donde dado un vector `p`, que
-representa posiciones iniciales en el grafo, representa la probabilidad de estar en cualquier nodo en cierto al largo
+representa posiciones iniciales en el grafo, representa la probabilidad de estar en cada nodo al largo
 plazo (¿les suena? Justo como PageRank); es decir:
 
 <center><img src="http://pabloem.github.io/images/stat_dist.png"></img>
