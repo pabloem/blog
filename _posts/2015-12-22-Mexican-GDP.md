@@ -11,7 +11,7 @@ I found a TopoJSON map of Mexico - made from Mike Bostock's very easy-to-follow 
 
 Note: The bottom bars represent population and GDP per municipality. On these bars, the coloring of each municipality is by quintiles over GDP. Notice how 20% of all GDP is produced in only 2.36% of municipalities, and so on. The visualization can be manipulated by clicking on those bars.
 
-<iframe src="http://pabloem.github.io/inegi/gdp/index.html?lang=en" width="750" height="700" frameborder="0" scrolling="no"></iframe>
+<iframe src="http://pabloem.github.io/inegi/gdp/index.html?lang=en" width="750" height="720" frameborder="0" scrolling="no"></iframe>
 
 I liked the visualization because we can see a lot of interesting patterns. First of all we can see the fact that Mexico has become a diverse and well distributed economy. A few municipalities with very high GDP are the area nearby the [Cantarell Complex](https://en.wikipedia.org/wiki/Cantarell_Field), the largest oilfield in the country; but the top 10 most productive municipalities don't really concentrate on a single area (Monterrey, Guadalajara, Mexico City, Toluca and the Cantarell region). As we go further and further, we can see regions all over the country lighting up: Some large cities, some touristic destinations, industrial centers, and border cities.
 
